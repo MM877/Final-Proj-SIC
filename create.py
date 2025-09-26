@@ -26,7 +26,7 @@ class EventCreationForm:
         self.country_var = tk.StringVar()
         self.city_var = tk.StringVar()
         self.tickets_var = tk.StringVar()
-        self.image_path = ""
+        self.image_path =""
         
         # Tag variables
         self.tag_vars = {}
